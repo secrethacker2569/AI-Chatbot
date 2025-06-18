@@ -7,6 +7,7 @@ In this file you will see 3 files named:
 3) zenthos.py : This file contains all the main code of your basic chatbot.
 
 All you have to do is to make sure that you have installed all the libraries so type this in cmd:
+
 pip install -r requirements.txt
 
 Now you have open your browser and search for Groq API Key. After opening it you will have to log in
